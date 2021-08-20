@@ -15,7 +15,7 @@ function myFunction() {
 }
 myFunction();
 
-//🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀:
+//🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: It can access the function (internal) because it is still in the function myFunction() if it was outside the function would have been closed and it wouldnt have been able to.
 
 /* 🚀🚀🚀 Task 2: Counter 🚀🚀🚀 */
 /* Use summation to do the following:
